@@ -1,5 +1,5 @@
 from django.shortcuts import render
-import mysql.connector as sql  # pip instalar mysql-connector-python
+import mysql.connector as sql  # pip install mysql-connector-python
 import sqlite3
 
 # Create your views here.
