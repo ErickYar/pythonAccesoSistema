@@ -4,3 +4,6 @@
 - como tercero comando: "django-admin startapp signup"
  
 - comando 4: py manage.py runserver
+
+## install:
+- comando para conectar el mysql con python: pip install mysql-connector-python.

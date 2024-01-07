@@ -4,7 +4,7 @@ import mysql.connector as sql #pip install mysql-connector-python
 # Create your views here.
 def loginaction(request):
     if request.method == "POST":
-        # abrir conexion a la BD de mysql
+        # abrir conexión a la BD de mysql
         cn = sql.connect(host="localhost", user="root",passwd="root", database='bdatos')
         # crear cursor
         cursor = cn.cursor()
