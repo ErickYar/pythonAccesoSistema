@@ -7,3 +7,6 @@
 
 ## install:
 - comando para conectar el mysql con python: pip install mysql-connector-python.
+
+## Funcionamiento de mi aplicación 
+- [Sistema de Acceso ](https://www.youtube.com/watch?v=gMkfiNhRKkU) este es la página que se ve como funciona mi PROYECTO 
