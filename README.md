@@ -15,4 +15,4 @@
 
 ## Funcionamiento de mi aplicación 
 
-- [Sistema de Acceso ](https://www.youtube.com/watch?v=gMkfiNhRKkU){:target="_blank"} este es la página que se ve como funciona mi PROYECTO 
+- [Sistema de Acceso](https://www.youtube.com/watch?v=gMkfiNhRKkU)este es la página que se ve como funciona mi PROYECTO 
