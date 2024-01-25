@@ -20,4 +20,7 @@ Esta Web es creado para el ingreso de contactos y registro nuevos y se creo  con
 
 ## Funcionamiento de mi aplicación 
 
-- [Sistema de Acceso](https://www.youtube.com/watch?v=gMkfiNhRKkU)este es la página que se ve como funciona mi PROYECTO 
+- [Sistema de Acceso](https://www.youtube.com/watch?v=gMkfiNhRKkU)este es la página que se ve como funciona mi PROYECTO
+
+## Netlify
+-[![Netlify Status](https://api.netlify.com/api/v1/badges/8a27289c-5133-4c57-8fa8-3ad890641e02/deploy-status)](https://app.netlify.com/sites/melodious-torrone-fd760b/deploys)
